@@ -18,8 +18,8 @@
 ## Run
 
  5. Run the project:
-        ```set FLASK_APP=zerodeposit```
-        ```flask run```
+        ```set FLASK_APP=zerodeposit
+        flask run```
  6. Open url: 127.0.0.1:5000 in web browser.
 
 
