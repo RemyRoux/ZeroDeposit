@@ -1,11 +1,4 @@
 # ZeroDeposit
-
-Please see the following installation guides: 
-### I. Window 
-### II. Linux
-
-And see the technical report:
-### III. Technical report
   
 ## Prerequisites:
  - Python 3.6 or higher, registered on your path as python3
