@@ -10,9 +10,8 @@
  2. Open cmd in ZeroDeposit.
  3. Create and activate a virtual environment: 
  
-        ```python3 -m venv venv
-        
-        venv\Scripts\activate```
+        python3 -m venv venv
+        venv\Scripts\activate
         
  4. Install the module: 
         ```pip install -e .```
