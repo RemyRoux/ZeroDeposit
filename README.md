@@ -9,7 +9,7 @@
  1. Clone the ZeroDeposit repository.
  2. Open cmd in ZeroDeposit.
  3. Create and activate a virtual environment: 
-        ```python3 -m venv venv
+        ```python3 -m venv venv  
         venv\Scripts\activate```
  4. Install the module: 
         ```pip install -e .```
@@ -18,7 +18,7 @@
 ## Run
 
  5. Run the project:
-        ```set FLASK_APP=zerodeposit
+        ```set FLASK_APP=zerodeposit  
         flask run```
  6. Open url: 127.0.0.1:5000 in web browser.
 
@@ -34,8 +34,8 @@ Within the venv, run pytest
  1. Clone the ZeroDeposit repository.
  2. Open terminal in ZeroDeposit.
  3. Create and activate a virtual environment: 
-        ```python3 -m venv venv```
-        ```. venv/bin/activate```
+        ```python3 -m venv venv  
+        . venv/bin/activate```
  4. Install the module: 
         ```pip install -e .```
 
@@ -43,7 +43,7 @@ Within the venv, run pytest
 ## Run
 
  5. Run the project:
-        ```export FLASK_APP=zerodeposit
+        ```export FLASK_APP=zerodeposit  
         flask run```
  6. Open url: 127.0.0.1:5000 in web browser.
 
